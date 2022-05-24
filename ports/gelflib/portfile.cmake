@@ -3,8 +3,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO rastignacc/gelflib
-    REF ea7e76b99c11c569a768ee95182b2a0a547cfbc6
-    SHA512 dd83351ce441dc50a5a1b79508b95267ce02a6e6fefab277a5b5be9451854c15891b27b9e81fb63b232e7b4eabc32c488b36d7b751d46c9d48058b6e26ee3b94
+    REF a9a5f927fc2190cf79aa732325dcedbdf193185b
+    SHA512 dfb0db6c2513c34f2945cead54a077cdf59cec17cace40d86ff0142771fb3e2e7aab6115f317a17c5e0b28aa8d6ecf2ed4e6f584beecccf3b8c439e54f2630ae
     HEAD_REF master
 )
 
