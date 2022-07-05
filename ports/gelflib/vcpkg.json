@@ -1,0 +1,5 @@
+{
+  "name": "gelflib",
+  "version": "1.0.0",
+  "description": "C++ library for sending Graylog Extended Log Format (GELF) messages using UDP protocol"
+}
